@@ -1,0 +1,68 @@
+.main{
+    /* background: black; */
+    /* position: relative; */
+    display: block;
+    color: white;
+    line-height: 60px;
+    font-size: 24px;
+    text-shadow: 2px 2px blue;
+    border-bottom: 1px solid gray
+}
+
+.name{
+    /* position: absolute; */
+    float: left;
+    color: white;
+    display: block;
+    text-align: left !important;
+    vertical-align: middle !important;
+    /* padding-top: 5px; */
+    margin-right: 19%;
+    margin-left: 51%
+}
+
+.about-me{
+    color: white;
+    text-shadow: 2px 2px blue;
+    padding-bottom: 23px;
+    border-bottom: 2px solid gray;
+    margin-bottom: 5px
+}
+
+a{
+    /* position: absolute; */
+    color:white !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    display: block;
+}
+
+
+
+.container{
+    /* background: white; */
+    position: relative;
+    margin-top: 50px;
+    max-width: 50%;
+    color: white !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    height: 50% !important;
+}
+
+#myVideo{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.foot{
+    background: black;
+    color: white !important;
+    display: block;
+    text-align: center !important;
+    vertical-align: middle !important;
+    /* line-height: 90px !important */
+}
